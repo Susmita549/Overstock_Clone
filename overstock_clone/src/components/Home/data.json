@@ -1,0 +1,41 @@
+{
+    "deals":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/06102022_HB_INTL_1.svg?imwidth=1920","title":"Select Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/06102022_HB_INTL_2.svg?imwidth=1920","title":"Select garden & Patio"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/06102022_HB_INTL_3.svg?imwidth=1920","title":"select furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/06102022_HB_INTL_4.svg?imwidth=1920","title":"Select Home Decor"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/05302022_V3_HB_DOMESTIC_7_v2.svg?imwidth=1920","title":"Select Mattresses"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/06102022_HB_INTL_6.svg?imwidth=1920","title":"Select Light & Ceiling Fans"}
+    ],
+    "category":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11192021-CatSilo-Furniture.png?imwidth=1920","title":"Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-AreaRugs.png?imwidth=1920","title":"Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-BedBath.png?imwidth=1920","title":"Bedding"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Decor.png?imwidth=1920","title":"Home Decor"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/CatSilo-Window-040721.jpg?imwidth=1920","title":"Window treatments"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Kitchen.png?imwidth=1920","title":"Kitchen"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11192021-CatSilo-Outdoor.png?imwidth=1920","title":"Outdoor"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/01112021-CatSilo-HomeImp.jpg?imwidth=1920","title":"Home improvement"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Storage.png?imwidth=1920","title":"Storage"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/01112021-CatSilo-Mattresses.jpg?imwidth=1920","title":"Mattresses"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/11152021-CatSilo-Lighting.png?imwidth=1920","title":"Lighting"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/CatSilo-AllDeals-040721.jpg?imwidth=1920","title":"Shop All Deals"}
+    ],
+    "Home_spring":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03282022_HP_V2_Editorial_Frame6.jpg?imwidth=1920","title":"Gazebos and Pergolas","desc":"Ad a little shade to any yard or garden with these beautiful structures."},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03282022_HP_Editorial_Frame_4.jpg?imwidth=1920","title":"Leather Sectionals​","desc":"Update your living room with the sumptuous style & homegrown comfort of leather."},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03282022_HP_Editorial_Frame_1.jpg?imwidth=1920","title":"Durable Outdoor Rugs","desc":"Treat your feet to patio comfort with these resilient rugs."},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03282022_HP_Editorial_Frame_7.jpg?imwidth=1920","title":"Ceiling Fans","desc":"Keep your space comfy & conditioned all season long with stylish ceiling fans."}
+    ],
+    "brands":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_27037529.jpg?imwidth=1080" ,"title":"Extra 20% off", "desc":"Select Rugs by Artistic Weavers & More*"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_39032511.jpg?imwidth=1080" ,"title":"Extra 15% off", "desc":"Select Mattresses by Sealy*"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_18977242.jpg?imwidth=1080" ,"title":"Extra 15% off", "desc":"Select Furniture by Flash Furniture*"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/C-Mod_HP_C_Mod_27417542.jpg?imwidth=1080" ,"title":"Save On", "desc":"Select Home Goods by Bush Furniture"}
+    ],
+    "style":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/030822-SBS-Traditional.jpg?imwidth=1920" ,"title":"Traditional", "desc":"Cozy designs, clean and classic, give this style it’s signature appeal."},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/030822-SBS-Farmhouse.jpg?imwidth=1920" ,"title":"Farmhouse", "desc":"Country comforts abound in this fresh take on rustic home decor."},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/030822-SBS-MidCenMod.jpg?imwidth=1920" ,"title":"Mid-Century Modern", "desc":"Retro meets modern chic in these clean lines and vibrant tones."}
+    ]
+}
