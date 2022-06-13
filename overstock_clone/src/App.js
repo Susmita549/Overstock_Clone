@@ -1,7 +1,10 @@
 
 import './App.css';
 
+import Footer from './components/Home/Footer';
+
 import Home from './components/Home/Home';
+import { Navbar } from './components/Navbar/Navbar';
 
 
 
@@ -9,9 +12,11 @@ import Home from './components/Home/Home';
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <Home/>
       
-     
+    <Footer/> 
+   
     </div>
   );
 }
