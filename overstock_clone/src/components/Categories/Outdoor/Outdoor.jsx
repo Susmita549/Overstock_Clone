@@ -2,7 +2,7 @@ import React from 'react'
 
 const Outdoor = () => {
   return (
-    <div>Outdoor</div>
+    <div >Outdoor</div>
   )
 }
 

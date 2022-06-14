@@ -1,0 +1,43 @@
+{
+    "rugSizes":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX1_3x5-480x480_2.png?imwidth=400&impolicy=medium" , "title":"3' x 5' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX2_4x6-480x480_2.png?imwidth=400&impolicy=medium" , "title":"4' x 6' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX3_5x8-480x480_2.png?imwidth=400&impolicy=medium" , "title":"5' x 8' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX4_6x9-480x480_2.png?imwidth=400&impolicy=medium" , "title":"6' x 9' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX5_7x9-480x480_2.png?imwidth=400&impolicy=medium" , "title":"7' x 9' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX6_8x10-480x480_2.png?imwidth=400&impolicy=medium" , "title":"8' x 10' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX7_9x12-480x480_2.png?imwidth=400&impolicy=medium" , "title":"9' x 12' Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_TOPTAX8_10x14-480x480_2.png?imwidth=400&impolicy=medium" , "title":"10' x 14' Area Rugs"}
+    ],
+    "rugColors":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXA1_Blue_Rugs-336x336_2.png?imwidth=400&impolicy=medium" , "title":"Blue Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXA2_Grey_Rugs-336x336_2.png?imwidth=400&impolicy=medium" , "title":"Grey Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXA3_Ivory_Rugs-336x336_2.png?imwidth=400&impolicy=medium" , "title":"Ivory Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXA4_Red_Rugs-336x336_2.png?imwidth=400&impolicy=medium" , "title":"Red Rugs"}
+    ],
+    "rugStyles":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXB1_Bohemian-Eclectic-lifestyle-336x336.png?imwidth=400&impolicy=medium" ,"title":"Bohemian & Eclectic Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXB2_Modern-Contemporary-lifestyle-336x336.png?imwidth=400&impolicy=medium" ,"title":"Modern & Contemporary Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXB3_Vintage-336x336.png?imwidth=400&impolicy=medium" ,"title":"Vintage Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_MULTITAXB4_Shag-336x336.png?imwidth=400&impolicy=medium" ,"title":"Shag Area Rugs"}
+    ],
+    "moreRugs":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER1_Area-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Area Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER2_Rug-Pads-267x267.png?imwidth=200&impolicy=medium" ,"title":"rug Pads"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER3_Shag-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Shag Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER4_Kitchen-rugs-mats-267x267.png?imwidth=200&impolicy=medium" ,"title":"Kitchen Rugs & Mats"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-gnp-rugs_otherPopular4.jpg?imwidth=200&impolicy=medium" ,"title":"Stair Treads"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER6_One-of-a-kind-267x267.png?imwidth=200&impolicy=medium" ,"title":"One of a Kind Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER7_Machine-Washable-267x267.png?imwidth=200&impolicy=medium" ,"title":"Machine Washable"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-gnp-rugs_otherPopular7.jpg?imwidth=200&impolicy=medium" ,"title":"Handmade Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-gnp-rugs_otherPopular8.jpg?imwidth=200&impolicy=medium" ,"title":"Flat Weave Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER10_Outdoor-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Outdoor Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER11_Runner-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Runner Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER12_Kids-tween-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Kids & Tween Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-gnp-rugs_otherPopular12.jpg?imwidth=200&impolicy=medium" ,"title":"Door Mats"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER14_Bath-mats-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Bath Mats & Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER15_Persian-rugs-267x267.png?imwidth=200&impolicy=medium" ,"title":"Persian Rugs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER16_Shop-new-arrivals-267x267.png?imwidth=200&impolicy=medium" ,"title":"Shop New Arrivals"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03212022_RUGS_OTHER17_Sales-267x267.png?imwidth=200&impolicy=medium" ,"title":"Shop All Rugs on Sale"}
+    ]
+}

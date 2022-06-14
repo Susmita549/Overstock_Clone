@@ -7,7 +7,7 @@ import Carousal from './Carousal';
 import './home.css'
 const Home = () => {
   return (
-    <div>
+    <div >
         <div className="container-fluid my-5 pt-5">
             <div className="container-fluid px-5 ">
             <div className="walpaper1">

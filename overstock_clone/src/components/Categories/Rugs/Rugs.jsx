@@ -2,7 +2,7 @@ import React from 'react'
 
 const Rugs = () => {
   return (
-    <div>Rugs</div>
+    <div >Rugs</div>
   )
 }
 

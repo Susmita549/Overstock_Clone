@@ -4,12 +4,13 @@ import "./Furniture.css";
 const Furniture = () => {
   return (
     <>
-      <div>
-        <div className="container ">
+      <div >
+        <div className="container-fluid p-5 my-5">
           <div className="row my-5">
             <div className="col-lg-3 ">
-              <h2 className="text">Featured Categories</h2>
-              <div className="text py-3 list">
+              <h1 className="text py-2 bold">Furniture</h1>
+              <h3 className="text">Featured Categories</h3>
+              <div className="text py-2 list">
                 <h6 className="text py-2" >living Room Furniture</h6>
                 <h6 className="text py-2" >Dining Room Furniture</h6>
                 <h6 className="text py-2" >Bedroom Furniture</h6>
@@ -29,7 +30,7 @@ const Furniture = () => {
               <div>
                 <img
                   src="https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_Hero_Desktop.jpg?imwidth=680&impolicy=medium?imwidth=750"
-                  class="img-fluid"
+                  className="img-fluid"
                   alt="furniture"
                 />
               </div>
@@ -39,7 +40,7 @@ const Furniture = () => {
                 <div className="col-lg-12 col-md-6 col-sm-12">
                   <img
                     src="https://ak1.ostkcdn.com/img/mxc/2022-04-12-temporary-virtual-showcase.png?imwidth=384"
-                    alt=""
+                    alt="banner"
                   />
                 </div>
               </div>
@@ -47,7 +48,7 @@ const Furniture = () => {
                 <div className="col-lg-12 col-md-6 col-sm-12">
                   <img
                     src="https://ak1.ostkcdn.com/img/mxc/2022-04-12-temporary-virtual-showcase.png?imwidth=384"
-                    alt=""
+                    alt="banner"
                   />
                 </div>
               </div>
@@ -61,12 +62,12 @@ const Furniture = () => {
           </div>
           <div className="row ">
             {furniture.popular_furniture.map((el) => (
-              <div className="col-lg-3 col-sm-6 col-md-4 my-3">
+              <div className="col-lg-3 col-sm-6 col-md-4 my-3" key={el.title}>
                 <div className="card">
                   <img
                     className="card-img-top"
                     src={el.image}
-                    alt="Card image cap"
+                    alt={el.title}
                   />
                   <div className="card-body">
                     <h5 className="card-title">{el.title}</h5>
@@ -82,7 +83,7 @@ const Furniture = () => {
             <div className="col-lg-6">
               <img
                 src="https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_688x444_BG01.jpg?imwidth=1024&impolicy=medium"
-                class="img-fluid"
+                className="img-fluid"
                 alt="Responsive"
               />
             </div>
@@ -136,7 +137,7 @@ const Furniture = () => {
             <div className="col-lg-6 py-3">
               <img
                 src="https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_688x444_BG02.jpg?imwidth=1024&impolicy=medium"
-                class="img-fluid"
+                className="img-fluid"
                 alt="Responsive"
               />
             </div>
@@ -149,12 +150,12 @@ const Furniture = () => {
           </div>
           <div className="row ">
             {furniture.shopmore_furniture.map((el) => (
-              <div className="col-lg-2 col-sm-6 col-md-4 my-3">
+              <div className="col-lg-2 col-sm-6 col-md-4 my-3" key={el.title}>
                 <div className="card">
                   <img
                     className="card-img-top"
                     src={el.image}
-                    alt="Card image cap"
+                    alt={el.title}
                   />
                   <div className="card-body">
                     <h5 className="card-title">{el.title}</h5>

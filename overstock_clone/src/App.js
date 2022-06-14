@@ -34,7 +34,7 @@ function App() {
         <Route path="/rugs" element={<Rugs/>}/>
         <Route path="/more" element={<More/>}/>
       </Routes>
-      <Home/>
+     
       
     <Footer/> 
    
