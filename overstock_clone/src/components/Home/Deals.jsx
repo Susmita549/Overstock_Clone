@@ -12,7 +12,7 @@ const Deals = () => {
               <div className="card">
                 <img src={el.image} />
               </div>
-              <div className="text ">{el.title}</div>
+              <h6 className="text text-center py-3">{el.title}</h6>
             </div>
           ))}
         </div>

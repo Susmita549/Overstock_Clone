@@ -1,0 +1,8 @@
+.text{
+    text-align: left;
+}
+
+.list > h6:hover{
+    font-weight: bold;
+    background-color: rgb(234, 229, 222);
+}

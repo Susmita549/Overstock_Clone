@@ -1,0 +1,27 @@
+.walpaper1{
+ 
+    height:550px;
+    background-image: url("https://ak1.ostkcdn.com/img/mxc/05302022-HP-A1-INTL-1400x550.jpg");
+    margin-top: 20px;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}
+.walpaper2{
+ 
+    height:550px;
+    background-image: url("https://ak1.ostkcdn.com/img/mxc/05302022_BedroomFurniture_Desktop.jpg?imwidth=3840");
+    margin-top: 20px;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}
+.walpaper3{
+
+    height:550px;
+    background-image: url("https://ak1.ostkcdn.com/img/mxc/05302022_SummerDecor_Desktop.jpg?imwidth=3840");
+    margin-top: 20px;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}

@@ -13,8 +13,7 @@ body {
     z-index: 10;
   }
   .overstockIndex {
-    margin-top: 10px;
-    height: 20px;
+    height: 30px;
   }
   img {
     cursor: pointer;
@@ -25,6 +24,7 @@ body {
     font-size: 14px;
     font-weight: 500;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
   }
   .header > div:nth-child(1) {
     margin-bottom: 5px;
@@ -36,7 +36,7 @@ body {
   }
   .header > div:nth-child(2) {
     /* gap: 3.2%; */
-    justify-content: space-between;
+    justify-content: space-around;
     padding-top: 7px;
     border-top: 1px solid #dadcdf;
     border-bottom: 1px solid #dadcdf;
@@ -69,7 +69,7 @@ body {
   .header .class-account:hover .chevronup {
     display: block;
   }
-  .header .class-account .account-dropdown-content {
+   .account-dropdown-content {
     position: absolute;
     top: 56.2px;
     width: 170px;
@@ -100,8 +100,8 @@ body {
     padding-top: 20px;
   }
   .header .class-input input {
-    width: 97%;
-    height: 79%;
+    width: 100%;
+    height: 80%;
     outline: none;
     border: 1px solid #dadcdf;
     border-radius: 4px 0 0 4px;
@@ -164,7 +164,7 @@ body {
   .dropdown-content-main > div > div > div:hover {
     border-bottom: 1px solid #2f3337;
   }
-  .dropdown-content-main .dark-div {
+   .dark-div {
     margin-bottom: 15px;
     color: #2f3337;
     font-weight: 700;

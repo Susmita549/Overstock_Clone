@@ -1,0 +1,36 @@
+{
+    "popular_furniture":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_1.jpg?imwidth=400&impolicy=medium","title":"Patio Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_2.jpg?imwidth=400&impolicy=medium","title":"Living Room Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_3.jpg?imwidth=400&impolicy=medium","title":"Dining Room Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_4.jpg?imwidth=400&impolicy=medium","title":"Bedroom Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/09062021_FALL2021_Furni_PopCat_10.jpg?imwidth=400&impolicy=medium","title":"Mattresses"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_6.jpg?imwidth=400&impolicy=medium","title":"Home Office Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/12202021_WINTER2022_FURNITURE_PopCat_6_SmallSpaceFurniture.jpg?imwidth=400&impolicy=medium","title":"Small Space Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/12202021_WINTER2022_FURNITURE_PopCat_7_KitchenFurniture.jpg?imwidth=400&impolicy=medium","title":"Kitchen Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_9.jpg?imwidth=400&impolicy=medium","title":"Entryway Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_10.jpg?imwidth=400&impolicy=medium","title":"Bathroom Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/09062021_FALL2021_Furni_PopCat_11.jpg?imwidth=400&impolicy=medium","title":"Recreation Room Furniture"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_PopCat_12.jpg?imwidth=400&impolicy=medium","title":"Kids & Toddler Room Furniture"}
+    ],
+    "shopmore_furniture":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular1.jpg?imwidth=200&impolicy=medium","title":"Sofas & Couches"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular2.jpg?imwidth=200&impolicy=medium","title":"Sectional Sofas"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular3.jpg?imwidth=200&impolicy=medium","title":"Living Room Sets"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular4.jpg?imwidth=200&impolicy=medium","title":"Accent Tables"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular5.jpg?imwidth=200&impolicy=medium","title":"Loveseats"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular6.jpg?imwidth=200&impolicy=medium","title":"Accent Chairs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/12242020-gnp-furniture-219x219_shop_more_diningrm.jpg?imwidth=200&impolicy=medium","title":"Dining Sets"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular8.jpg?imwidth=200&impolicy=medium","title":"Dining Tables"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular9.jpg?imwidth=200&impolicy=medium","title":"Dining Chairs"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular10.jpg?imwidth=200&impolicy=medium","title":"Buffets"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular11.jpg?imwidth=200&impolicy=medium","title":"Bar Stools"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular12.jpg?imwidth=200&impolicy=medium","title":"Beds"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular13.jpg?imwidth=200&impolicy=medium","title":"Bedroom Sets"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular14.jpg?imwidth=200&impolicy=medium","title":"Headboards"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular15.jpg?imwidth=200&impolicy=medium","title":"Chests & Dressers"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular16.jpg?imwidth=200&impolicy=medium","title":"Nightstands"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/03232020-furniture-otherPopular17.jpg?imwidth=200&impolicy=medium","title":"Kids & Toddler Beds"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/071718_sale_square.svg","title":"Shop All Furniture on Sale"}
+    ]
+}

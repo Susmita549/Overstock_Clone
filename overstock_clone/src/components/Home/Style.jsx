@@ -10,13 +10,13 @@ const Style = () => {
         <div className="row my-5">
           {data.style.map((el) => (
             <div className="col-lg-4 col-sm-6 ">
-              <div class="card" >
-                <img class="card-img-top" src={el.image} alt="Card image cap" />
-                <div class="card-body">
-                  <h4 class="card-title">{el.title}</h4>
-                  <p class="card-text">
+              <div className="card" >
+                <img className="card-img-top" src={el.image} alt="Card image cap" />
+                <div className="card-body">
+                  <h4 className="card-title">{el.title}</h4>
+                  <h6 className="card-text">
                    {el.desc}
-                  </p>
+                  </h6>
                   
                 </div>
               </div>

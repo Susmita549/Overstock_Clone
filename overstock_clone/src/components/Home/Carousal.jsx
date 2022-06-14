@@ -29,9 +29,9 @@ const Carousal = () => {
                   <img className="card-img-top" src={item.image} alt="Card image cap" />
                   <div className="card-body">
                     <div><h3 className="card-title ">{item.title}</h3></div>
-                    <p className="card-text" >
+                    <h6 className="card-text" >
                       {item.desc}
-                    </p>
+                    </h6>
                     
                   </div>
                 </div>
