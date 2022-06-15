@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bedding = () => {
   return (
-    <div >Bedding</div>
+    <div>Bedding</div>
   )
 }
 

@@ -55,14 +55,12 @@ const Furniture = () => {
                   <h1 className="text text-center list4" >Murphy Beds</h1>
                 </div>
               </div>
-              {/* <div className="row  h-50">
-                
-              </div> */}
+              
             </div>
           </div>
         </div>
         
-        <div className="container-fluid p-5 ">
+        <div className="container-fluid px-5 ">
           <div className="row">
             <h2>Popular Furniture Categories</h2>
           </div>
