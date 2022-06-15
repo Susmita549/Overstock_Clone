@@ -7,51 +7,57 @@ const Furniture = () => {
       <div >
         <div className="container-fluid p-5 my-5">
           <div className="row my-5">
-            <div className="col-lg-3 ">
-              <h1 className="text py-2 bold">Furniture</h1>
-              <h3 className="text">Featured Categories</h3>
-              <div className="text py-2 list">
-                <h6 className="text py-2" >living Room Furniture</h6>
-                <h6 className="text py-2" >Dining Room Furniture</h6>
-                <h6 className="text py-2" >Bedroom Furniture</h6>
-                <h6 className="text py-2" >Patio Furniture</h6>
-                <h6 className="text py-2" >Kitchen Furniture</h6>
-                <h6 className="text py-2" >Entryway Furniture</h6>
-                <h6 className="text py-2" >Home Office Furniture</h6>
-                <h6 className="text py-2" >Small Space Furniture</h6>
-                <h6 className="text py-2" >Bathroom Furniture</h6>
-                <h6 className="text py-2" >Mattresses</h6>
-                <h6 className="text py-2" >Recreation Room</h6>
-                <h6 className="text py-2" >Kids & Toddler Furniture</h6>
-                <h6 className="text py-2" >Home Gym</h6>
+            <div className="col-md-3 col-sm-12 ">
+              <h1 className="text list1" >Furniture</h1>
+              <h3 className="text list2" >Featured Categories</h3>
+              <div className="text  list">
+                <h6  >living Room Furniture</h6>
+                <h6  >Dining Room Furniture</h6>
+                <h6  >Bedroom Furniture</h6>
+                <h6  >Patio Furniture</h6>
+                <h6  >Kitchen Furniture</h6>
+                <h6  >Entryway Furniture</h6>
+                <h6  >Home Office Furniture</h6>
+                <h6  >Small Space Furniture</h6>
+                <h6  >Bathroom Furniture</h6>
+                <h6  >Mattresses</h6>
+                <h6  >Recreation Room</h6>
+                <h6  >Kids & Toddler Furniture</h6>
+                <h6  >Home Gym</h6>
               </div>
             </div>
-            <div className="col-lg-6">
+            <div className="col-md-6 col-sm-12">
               <div>
                 <img
                   src="https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURNI_Hero_Desktop.jpg?imwidth=680&impolicy=medium?imwidth=750"
-                  className="img-fluid"
+                  class="img-fluid"
                   alt="furniture"
                 />
               </div>
             </div>
-            <div className="col-lg-3">
-              <div className="row ">
-                <div className="col-lg-12 col-md-6 col-sm-12">
-                  <img
-                    src="https://ak1.ostkcdn.com/img/mxc/2022-04-12-temporary-virtual-showcase.png?imwidth=384"
-                    alt="banner"
+            <div className="col-md-3 col-sm-12 ">
+              <div className="row  " style={{backgroundColor:"white"}}>
+                <div className="col-md-12 col-sm-6  mt-4   ">
+                  <h4 className="text text-center list3" >Need Inspiration?</h4>
+                  <h1 className="text text-center list4" >Virtual Furniture</h1>
+                  <img className="img-fluid"
+                    src="https://ak1.ostkcdn.com/img/mxc/2022-04-12-temporary-virtual-showcase.png?imwidth=384" 
+                    alt=""
                   />
                 </div>
-              </div>
-              <div className="row ">
-                <div className="col-lg-12 col-md-6 col-sm-12">
-                  <img
-                    src="https://ak1.ostkcdn.com/img/mxc/2022-04-12-temporary-virtual-showcase.png?imwidth=384"
-                    alt="banner"
+                <div className="col-md-12 col-sm-6  mt-4   ">
+                
+                  <img className="img-fluid"
+                    src="https://ak1.ostkcdn.com/img/mxc/03242022_SPRING2022_FURN_MM_022.png?imwidth=320&impolicy=medium?imwidth=384" 
+                    alt=""
                   />
+                  <h4 className="text text-center list3" >Guest-Ready</h4>
+                  <h1 className="text text-center list4" >Murphy Beds</h1>
                 </div>
               </div>
+              {/* <div className="row  h-50">
+                
+              </div> */}
             </div>
           </div>
         </div>
