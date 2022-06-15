@@ -1,0 +1,39 @@
+{
+    "popular":[
+        {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_1_comfortersandsets.jpg?imwidth=400&impolicy=medium","title":"Comforters and Sets"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_2_quiltsandbedspreads.jpg?imwidth=400&impolicy=medium","title":"Quilts and Bedspreads"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_3_bedsheetsandpillowcases.jpg?imwidth=400&impolicy=medium","title":"Bed Sheets and Pillowcases"},
+        {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_4_mattresspadsandtoppers.jpg?imwidth=400&impolicy=medium","title":"Mattress Pads and Toppers"}
+    ],
+    "size":[
+      {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_5_kingbedding.jpg?imwidth=400&impolicy=medium","title":"King Bedding Sets"},
+      {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_6_queenbedding.jpg?imwidth=400&impolicy=medium","title":"Queen Bedding Sets"},
+      {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_7_fullbedding.jpg?imwidth=400&impolicy=medium","title":"Full Bedding Sets"},
+      {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_PopCat_8_twinbedding.jpg?imwidth=400&impolicy=medium","title":"Twin Bedding Sets"}
+    ],
+    "pattern":[
+       {"image":"https://ak1.ostkcdn.com/img/mxc/06012022_BEDDING_PopCat_9.jpg?imwidth=400&impolicy=medium","title":"Solid Color"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/06012022_BEDDING_PopCat_10.jpg?imwidth=400&impolicy=medium","title":"Floral"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/06012022_BEDDING_PopCat_11.jpg?imwidth=400&impolicy=medium","title":"Textured"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/06012022_BEDDING_PopCat_12.jpg?imwidth=400&impolicy=medium","title":"Striped"}      
+    ],
+    "shopmore":[
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more01_beddingsets.jpg?imwidth=200&impolicy=medium","title":"Bedding Sets"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more02_comfortersandsets.jpg?imwidth=200&impolicy=medium","title":"Comforters and Sets"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more03_quiltsandbedspreads.jpg?imwidth=200&impolicy=medium","title":"Quilts and Bedspreads"},      
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more04_bedsheetsandpillowcases.jpg?imwidth=200&impolicy=medium","title":"Bed Sheets and Pillowcases"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more05mattresspadsandtoppers.jpg?imwidth=200&impolicy=medium","title":"Mattress Pads and Toppers"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more05mattresspadsandtoppers.jpg?imwidth=200&impolicy=medium","title":"Bed-in-a-Bag"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more11_bedpillows.jpg?imwidth=200&impolicy=medium","title":"Bed Pillows"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more12_pillowshams.jpg?imwidth=200&impolicy=medium","title":"Pillow Shams"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more09_downcomforters.jpg?imwidth=200&impolicy=medium","title":"Down Comforters and Duvet Inserts"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more06_bedprotectors.jpg?imwidth=200&impolicy=medium","title":"Bed Protectors"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more07_blankets.jpg?imwidth=200&impolicy=medium","title":"Blankets"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more08_duvetcoversandsets.jpg?imwidth=200&impolicy=medium","title":"Duvet Covers and Sets"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more13_bedskirts.jpg?imwidth=200&impolicy=medium","title":"Bed Skirts"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more14_kidsbedding.jpg?imwidth=200&impolicy=medium","title":"Kids Bedding"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more15_daybedcoversets.jpg?imwidth=200&impolicy=medium","title":"Daybed Cover Sets"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/05122022_BEDDING_219x219_shop_more16_newarrivals.jpg?imwidth=200&impolicy=medium","title":"Shop New Arrivals"},     
+       {"image":"https://ak1.ostkcdn.com/img/mxc/071718_sale_square.svg","title":"Shop All Bedding on Sale"}     
+    ]
+}
