@@ -11,33 +11,65 @@ const Living = () => {
       let res = initData.filter((item) => item.category === "livingroom");
       setData([...res]);
     }
-    if (e.target.value === "cofee") {
-      let res = initData.filter((item) => item.category === "cofee");
+    if (e.target.value === "homeoffice") {
+      let res = initData.filter((item) => item.category === "homeoffice");
       setData([...res]);
     }
-    if (e.target.value === "beanbag") {
-      let res = initData.filter((item) => item.category === "beanbag");
+    if (e.target.value === "smallspace") {
+      let res = initData.filter((item) => item.category === "smallspace");
       setData([...res]);
     }
-    if (e.target.value === "sofa") {
-      let res = initData.filter((item) => item.category === "sofa");
+    if (e.target.value === "patio") {
+      let res = initData.filter((item) => item.category === "patio");
+      setData([...res]);
+    }
+    if (e.target.value === "dinning") {
+      let res = initData.filter((item) => item.category === "dinning");
+      setData([...res]);
+    }
+    if (e.target.value === "kitchen") {
+      let res = initData.filter((item) => item.category === "kitchen");
+      setData([...res]);
+    }
+    if (e.target.value === "bathroom") {
+      let res = initData.filter((item) => item.category === "bathroom");
+      setData([...res]);
+    }
+    if (e.target.value === "gym") {
+      let res = initData.filter((item) => item.category === "gym");
+      setData([...res]);
+    }
+    if (e.target.value === "kids") {
+      let res = initData.filter((item) => item.category === "kids");
+      setData([...res]);
+    }
+    if (e.target.value === "mattresses") {
+      let res = initData.filter((item) => item.category === "mattresses");
+      setData([...res]);
+    }
+    if (e.target.value === "entryway") {
+      let res = initData.filter((item) => item.category === "entryway");
+      setData([...res]);
+    }
+    if (e.target.value === "bedroom") {
+      let res = initData.filter((item) => item.category === "bedroom");
       setData([...res]);
     }
     
   };
 
-  const handlePrice = (e) => {
-  console.log("clicked");
-    if (e.target.value === "h2l") {
-      let newItem = [...initData];
-      newItem.sort((a, b) => b.price - a.price);
-      setInitData([...newItem]);
-    } else if (e.target.value === "l2h") {
-      let newItem = [...initData];
-      newItem.sort((a, b) => a.price - b.price);
-      setInitData([...newItem]);
-    }
-  };
+  // const handlePrice = (e) => {
+  // console.log("clicked");
+  //   if (e.target.value === "h2l") {
+  //     let newItem = [...initData];
+  //     newItem.sort((a, b) => b.price - a.price);
+  //     setInitData([...newItem]);
+  //   } else if (e.target.value === "l2h") {
+  //     let newItem = [...initData];
+  //     newItem.sort((a, b) => a.price - b.price);
+  //     setInitData([...newItem]);
+  //   }
+  // };
   
   return (
     <>
@@ -50,17 +82,22 @@ const Living = () => {
           <br />
           <select onChange={handleFilter}>
             <option value="">Filter By</option>
-            <option value="livingroom">Living Room Chairs</option>
-            <option value="coffee">Coffee,console & End Table</option>
-            <option value="beanbag">Bean Bags</option>
-            <option value="sofa">Sofa & couches</option>
+            <option value="livingroom">Living Room Furniture</option>
+            <option value="homeoffice">HomeOffice Furniture</option>
+            <option value="smallspace">Small Space Furniture</option>
+            <option value="patio">Patio Furniture</option>
+            <option value="dinning"> Dinning Furniture</option>
+            <option value="kitchen"> Kitchen Furniture</option>
+            <option value="bathroom"> Bathroom Furniture</option>
+            <option value="gym"> Home Gym Furniture</option>
+            <option value="kids"> Kids & Toddler Furniture</option>
+            <option value="mattresses"> Mattresses</option>
+            <option value="entryway"> Entryway Furniture</option>
+            <option value="bedroom"> Bedroom Furniture</option>
+           
           </select>
 
-          <select onChange={handlePrice}>
-            <option value="h2l">HIGH</option>
-            <option value="l2h">LOW</option>
-          
-          </select>
+         
 
         </div>
         <div className="container-fluid p-5 ">
