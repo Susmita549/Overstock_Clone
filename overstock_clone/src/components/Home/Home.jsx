@@ -5,6 +5,7 @@ import Brand from './Brand';
 import Style from './Style';
 import Carousal from './Carousal';
 import './home.css'
+import LastGrid from './LastGrid';
 const Home = () => {
   return (
     <div >
@@ -35,6 +36,7 @@ const Home = () => {
         </div>
         <div><Brand/></div>
         <div><Style/></div>
+        <div><LastGrid/></div>
     </div>
   )
 }

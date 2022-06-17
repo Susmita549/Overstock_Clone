@@ -46,9 +46,9 @@ body {
     border-bottom: 2px solid transparent;
     padding-bottom: 7px;
   }
-  .header > div:nth-child(2) div:hover {
+  /* .header > div:nth-child(2) div:hover {
     border-bottom: 2px solid #2f3337;
-  }
+  } */
   .header > div:nth-child(2) div:hover body {
     opacity: 0;
   }
@@ -70,9 +70,11 @@ body {
     display: block;
   }
    .account-dropdown-content {
+   
+    
     position: absolute;
     top: 56.2px;
-    width: 170px;
+    width: 10vw;
     background-color: white;
     border: 1px solid #dadcdf;
     z-index: 4;
@@ -94,11 +96,12 @@ body {
   }
   .header .class-account .account-dropdown-content div:hover {
     font-weight: 600;
+   
   }
-  .header .class-account .account-dropdown-content div:last-child {
+  /* .header .class-account .account-dropdown-content div:last-child {
     border-top: 1px solid #dadcdf;
     padding-top: 20px;
-  }
+  } */
   .header .class-input input {
     width: 100%;
     height: 80%;
@@ -138,72 +141,9 @@ body {
     display: none;
     padding-bottom: 20px;
     z-index: 2;
+    border:1px solid green;
   }
-  .dropdown-content-main > div {
-    display: flex;
-    flex-direction: column;
-    height: 90%;
-    width: 25%;
-    padding-top: 40px;
-  }
-  .dropdown-content-main img {
-    width: 100%;
-    cursor: pointer;
-  }
-  .dropdown-content-main > div div {
-    font-size: 14px;
-    cursor: pointer;
-    color: #626669;
-    margin: 0 0 8px;
-    padding: 0 0 2px;
-    width: fit-content;
-    border-bottom: 1px solid transparent;
-    line-height: normal;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  }
-  .dropdown-content-main > div > div > div:hover {
-    border-bottom: 1px solid #2f3337;
-  }
-   .dark-div {
-    margin-bottom: 15px;
-    color: #2f3337;
-    font-weight: 700;
-    font-size: 14px;
-    cursor: pointer;
-    margin: 0 0 8px;
-    padding: 0 0 2px;
-    line-height: normal;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  }
-  .dropdown-content-main > div:nth-child(4) > div > div:hover {
-    border-bottom: 1px solid transparent;
-  }
-  .dropdown-content-main .red-div {
-    color: #c7202c;
-    margin-bottom: 0;
-    line-height: 22px;
-    font-weight: 700;
-    margin: 0 0 8px;
-    padding: 0 0 2px;
-    border-bottom: 1px solid transparent;
-    font-size: 14px;
-    cursor: pointer;
-  }
-  .dropdown-content-main .dropdown-img-cont > div + div {
-    font-size: 20px;
-    margin: 8px 0 7px;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #2f3337;
-  }
-  .dropdown-content-main .dropdown-img-cont > div + div + div {
-    font-size: 14px;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #2f3337;
-  }
-  .dropdown-content-main:hover {
-    display: block;
-  }
-  
+
   .overStlogo {
     display: block;
     width: 34px;

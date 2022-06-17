@@ -1,0 +1,153 @@
+[
+    {
+        "id":1,
+        "price":34799,
+        "views":684,
+        "title":"Kaylee Spindle Chair in Fabric with White Frame",
+        "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/7de15afebfe968deef24dc3a8334e5955b009ec0/Kaylee-Spindle-Chair-in-Fabric-with-White-Frame.jpg",
+        "desc":"Create a designer feel to your décor with the classic Kaylee Spindle Chair. Deep, inviting cushions allow for cozy relaxation. Enjoy traditional styling thanks to a solid wood frame with beautiful turned, spindle detail.",
+         "category":"livingroom",
+         "sale":true
+    },
+    {
+        "id":2,
+        "price":24119,
+        "views":84,
+        "title":"Carson Carrington Karkkila Mid-century Arm Chair",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/3af59ef5d64189cbb70d78d710112d32aa712ad3/Carson-Carrington-Karkkila-Mid-century-Arm-Chair.jpg",
+         "desc":"Sit and relax in style with this mid-century arm chair from the Carson Carrington collection. Upholstered in durable polyester, it comes in several striking colors to coordinate with your decor.",
+         "category":"livingroom",
+         "sale":true
+    },
+    {
+        "id":3,
+        "price":13138,
+        "views":368,
+        "title":"Silver Orchid Murray Velvet Accent Chair",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/b5d5a65eb6dd9de3411472ca72d2529047e09fa7/Silver-Orchid-Murray-Velvet-Upholstered-Accent-Chair.jpg?imwidth=480&impolicy=medium",
+         "desc":"Upholstered in a soft, silky velvet fabric, this accent chair welcomes you home. Its sturdy metal sled frame flaunts a goldtone finish, complete with plastic floor protectors. The curved shape offers extra comfort and relaxation.  ",
+         "category":"livingroom",
+         "sale":true
+    },
+    {
+        "id":4,
+        "price":15108,
+        "views":719,
+        "title":"Carson Carrington Telsiai Triangular Wood Coffee Table",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/08b80a67acf1c5ff748b98e4c070d2f09c789764/Carson-Carrington-Telsiai-Triangle-Wood-Coffee-Table.jpg?imwidth=480&impolicy=medium",
+         "desc":"Revamp the entire vibe of your space, with this gorgeous triangular wood coffee table. Inspired by mid-century modern design, this table flaunts a unique crossed geometric base and a triangular table top.",
+         "category":"cofee",
+         "sale":true
+    },
+    {
+        "id":5,
+        "price":21584,
+        "views":90,
+        "title":"COZAYH Rustic Farmhouse Cottagecore Coffee Table",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/e90b97894ed9e636f3bae421eb653a11e86c8a77/COZAYH%C2%A0Rustic%C2%A0Farmhouse%C2%A0Cottagecore%C2%A0Coffee%C2%A0Table.jpg?imwidth=480&impolicy=medium",
+         "desc":"A truly breathtaking coffee table with a natural wood tray-style finish and  base. From Rustic to Traditional this table has elements of all styles that will fit with your current home.",
+         "category":"cofee",
+         "sale":false
+    },
+    {
+        "id":6,
+        "price":22335,
+        "views":884,
+        "title":"Melting Metal Contemporary Gold Silver or Black Accent Table with Smoke Glass",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/13bb0d25ce8c1b90b5e035c2be777854ce54a5ad/Melting-Metal-Contemporary-Gold-or-Silver-Accent-Table-with-Smoke-Glass.jpg",
+         "desc":"Bring a finishing touch to your home with an inviting appeal with this beautifully crafted accent table. A compact friendly table providing you with additional surface storage space any where in your home.",
+         "category":"cofee",
+         "sale":true
+    },
+    {
+        "id":7,
+        "price":12748,
+        "views":584,
+        "title":"Warrin Furry Glam Faux Fur 3 Ft. Bean Bag by Christopher Knight Home",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/3550a7e56a5d45a4a90e53d6ba490e5f9cca7617/Warrin-Furry-Glam-Faux-Fur-3-Ft.-Bean-Bag-by-Christopher-Knight-Home.jpg",
+         "desc":"Looking for a bean bag that is more than just a plan bean bag? Then look no further, as this is a faux fur bean bag! Soft to the touch and perfect for lying against, this bean bag is great for any age and any room.",
+         "category":"beanbag",
+         "sale":false
+    },
+    {
+        "id":8,
+        "price":84455,
+        "views":675,
+        "title":"4-foot Bean Bag Chair Large Memory Foam Bean Bag",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/55cbdd95fb90983b89948a3e142dc62230c3cfd5/Sofa-Sack-Bean-Bag-Chair-4-ft.-Memory-Foam-Bean-Bag-Chair.jpg",
+         "desc":"This cool and unique bean bag chair has a variety of color options for its super soft micro-suede cover that will allow you to find the perfect pop of whimsical, fun, colorful piece ideal for your space.",
+         "category":"beanbag",
+         "sale":false
+    },
+    {
+        "id":9,
+        "price":24799,
+        "views":634,
+        "title":"Asher Traditional 6.5-foot Suede Bean Bag Chair by Christopher Knight Home",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/f59e16a6114ef92b562517d3d56777632a0f0c88/Asher-Traditional-6.5-foot-Suede-Bean-Bag-Chair-by-Christopher-Knight-Home.jpg?imwidth=480&impolicy=medium",
+         "desc":"For a fun seating option in your home, bring back our accessory of cozy and casual style. Our inviting bean bag features soft textures, making this a versatile accessory that is perfect for any room in your home.",
+         "category":"beanbag",
+         "sale":false
+    },
+    {
+        "id":10,
+        "price":47257,
+        "views":389,
+        "title":"Futzca Modern L-shaped Compact Convertible Sectional Sofa w/ Reversible Chaise",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/6b6ea38e2603ffb054993aaaa44e0fe3f7493a05/Futzca-Convertible-Sectional-Sofa-Couch-with-Reversible-Chaise%2C-Modern-Linen-Fabric-L-Shaped-Couch-for-Small-Space.jpg",
+         "desc":"Make the most of your apartment or studio space, with the help of this alluring convertible sectional sofa and reversible chaise pair. Configure the components however you like and watch your compact space feel that much bigger and more welcoming.",
+         "category":"sofa",
+         "sale":true
+    },
+    {
+        "id":11,
+        "price":64793,
+        "views":293,
+        "title":"Jaxx Zipline Convertible Queen-size Sleeper Loveseat and Ottoman Set",
+         "image":"https://ak1.ostkcdn.com/images/products/10184613/Jaxx-Zipline-Queen-size-Convertible-Sleeper-Loveseat-and-Ottomans-Bed-8a51de72-6fd6-44ef-a536-8a24b970055d_320.jpg",
+         "desc":"Update your living space with this queen-size sleeper loveseat and ottoman set. Filled with soft yet sturdy polyurethane foam, this set displays clean lines and angles that make it an excellent finishing touch to a modern space.",
+         "category":"sofa",
+         "sale":false
+    },
+    {
+        "id":12,
+        "price":59568,
+        "views":455,
+        "title":"Morden Loveseat Square Arms Upholstered Fabric Sofa with Pillows",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/dc138226d5a7eddc6cfc33b1e5cfdac120e0417c/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+         "desc":"Description: This is a classic two-seat sofa.  ",
+         "category":"sofa",
+         "sale":true
+    },
+    {
+        "id":13,
+        "price":5392,
+        "views":235,
+        "title":"AANNY Designs Lychee Knitted Cotton Round Pouf Ottoman",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/c0a40092708c5623e7f2bc8dad77c80ceabdc63a/Lychee-Cotton-Round-Knitted-Pouf-Ottoman.jpg",
+         "desc":"..Posh, pretty, and plush --- this ottoman is sure to be a favorite addition to your home. A fun pop of color infuses your decor with a touch of personality, and the woven color lends to a wonderful texture.",
+         "category":"ottomans",
+         "sale":false
+    },
+    {
+        "id":14,
+        "price":4230,
+        "views":308,
+        "title":"Serenta Super Mink Fauxfur Ottoman Bench",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/4d9404d310106dc41f51a0d892cad34c81aa0b4b/Serenta-SuperMink-FauxFur-Ottoman-Bench.jpg",
+         "desc":"Increase the comfort of your living area or entryway with a cozy Serenta ottoman or bench. The foam-filled frame features metal hairpin legs, striped stitching, and soft fauxfur upholstery.",
+         "category":"ottomans",
+         "sale":true
+    },
+    {
+        "id":15,
+        "price":5869,
+        "views":473,
+        "title":"International Caravan Bali Papasan Footstool",
+         "image":"https://ak1.ostkcdn.com/images/products/is/images/direct/10b9d3dce9bc179b49e350fcee7624644dfb0a29/International-Caravan-Bali-Papasan-Footstool-with-Microsuede-Cushion.jpg",
+         "desc":"This round cushioned ottoman from International Caravan is a great way to pull together the look and decorative vibe of your living area.",
+         "category":"ottomans",
+         "sale":false
+    }
+    
+]

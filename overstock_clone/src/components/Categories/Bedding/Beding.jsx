@@ -1,6 +1,6 @@
 import React from "react";
-import improvement from './improveent.json'
-const HomeImprovement = () => {
+import bedding from './Bedding.json'
+const Beding = () => {
   return (
     <>
       <div >
@@ -59,14 +59,14 @@ const HomeImprovement = () => {
           </div>
         </div>
 
-       {/* popular improvement */}
+       {/* popular bedding */}
         
         <div className="container-fluid px-5 ">
           <div className="row">
             <h2>Popular Furniture Categories</h2>
           </div>
           <div className="row ">
-            {improvement.bathkitchenrenovation.map((el) => (
+            {bedding.popular.map((el) => (
               <div className="col-lg-3 col-sm-6 col-md-4 my-3" key={el.title}>
                 <div className="card">
                   <img
@@ -83,14 +83,14 @@ const HomeImprovement = () => {
           </div>
         </div>
 
-        {/* improvement homerenovation */}
+        {/* bedding size */}
 
         <div className="container-fluid px-5 ">
           <div className="row">
             <h2>Popular Furniture Categories</h2>
           </div>
           <div className="row ">
-            {improvement.homerenovation.map((el) => (
+            {bedding.size.map((el) => (
               <div className="col-lg-3 col-sm-6 col-md-4 my-3" key={el.title}>
                 <div className="card">
                   <img
@@ -107,14 +107,14 @@ const HomeImprovement = () => {
           </div>
         </div>
 
-        {/* improvement outdoorrenovation */}
+        {/* bedding pattern */}
 
         <div className="container-fluid px-5 ">
           <div className="row mt-4">
             <h2>Popular Furniture Categories</h2>
           </div>
           <div className="row ">
-            {improvement.outdoorrenovation.map((el) => (
+            {bedding.pattern.map((el) => (
               <div className="col-lg-3 col-sm-6 col-md-4 " key={el.title}>
                 <div className="card">
                   <img
@@ -207,7 +207,7 @@ const HomeImprovement = () => {
             <h2>Shop More Furniture</h2>
           </div>
           <div className="row ">
-            {improvement.shopmorerenovation.map((el) => (
+            {bedding.shopmore.map((el) => (
               <div className="col-lg-2 col-sm-6 col-md-4 my-3" key={el.title}>
                 <div className="card">
                   <img
@@ -228,7 +228,4 @@ const HomeImprovement = () => {
   );
 };
 
-
-
-
-export default HomeImprovement
+export default Beding;

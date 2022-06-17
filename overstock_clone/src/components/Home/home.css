@@ -25,3 +25,13 @@
     background-size:contain;
     background-position:center;
 }
+.class_column{
+    background-color: rgba(227, 227, 239, 0.118);
+   
+    
+}
+.class_column:hover{
+    background-color: rgb(227, 227, 239);
+   
+    
+}

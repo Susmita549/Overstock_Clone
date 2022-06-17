@@ -2,6 +2,8 @@ import React from "react";
 import furniture from "./furnituree.json";
 import "./Furniture.css";
 const Furniture = () => {
+
+ 
   return (
     <>
       <div >
@@ -11,19 +13,20 @@ const Furniture = () => {
               <h1 className="text list1" >Furniture</h1>
               <h3 className="text list2" >Featured Categories</h3>
               <div className="text  list">
-                <h6  >living Room Furniture</h6>
-                <h6  >Dining Room Furniture</h6>
-                <h6  >Bedroom Furniture</h6>
-                <h6  >Patio Furniture</h6>
-                <h6  >Kitchen Furniture</h6>
-                <h6  >Entryway Furniture</h6>
-                <h6  >Home Office Furniture</h6>
-                <h6  >Small Space Furniture</h6>
-                <h6  >Bathroom Furniture</h6>
-                <h6  >Mattresses</h6>
-                <h6  >Recreation Room</h6>
-                <h6  >Kids & Toddler Furniture</h6>
-                <h6  >Home Gym</h6>
+                <h6  ><a href="furniture/living">living Room Furniture</a></h6>
+                <h6  ><a href="furniture/living">Dining Room Furniture</a></h6>
+                <h6  ><a href="furniture/living">Bedroom Furniture</a></h6>
+                <h6  ><a href="furniture/living">Patio Furniture</a></h6>
+                <h6  ><a href="furniture/living">Kitchen Furniture</a></h6>
+                <h6  ><a href="furniture/living">Entryway Furniture</a></h6>
+                <h6  ><a href="furniture/living">Home Office Furniture</a></h6>
+                <h6  ><a href="furniture/living">Small Space Furniture</a></h6>
+                <h6  ><a href="furniture/living">Bathroom Furniture</a></h6>
+                <h6  ><a href="furniture/living">Mattresses</a></h6>
+                <h6  ><a href="furniture/living">Recreation Room</a></h6>
+                <h6  ><a href="furniture/living">Kids & Toddler Furniture</a></h6>
+                <h6  ><a href="furniture/living">Home Gym</a></h6>
+                
               </div>
             </div>
             <div className="col-md-6 col-sm-12">
@@ -59,6 +62,7 @@ const Furniture = () => {
             </div>
           </div>
         </div>
+        
         
         <div className="container-fluid px-5 ">
           <div className="row">
