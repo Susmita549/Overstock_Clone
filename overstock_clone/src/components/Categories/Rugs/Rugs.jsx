@@ -7,8 +7,8 @@ const Rugs = () => {
         <div className="container-fluid p-5 my-5">
           <div className="row my-5">
             <div className="col-md-3 col-sm-12 ">
-              <h1 className="text list1" >Furniture</h1>
-              <h3 className="text list2" >Featured Categories</h3>
+              <h1 className="text list1" >Rugs</h1>
+              <h3 className="text list2" >Featured Rugs</h3>
               <div className="text  list">
                 <h6  >living Room Furniture</h6>
                 <h6  >Dining Room Furniture</h6>
